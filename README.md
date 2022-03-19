@@ -6,7 +6,7 @@ TinderApp iOS application in SwiftUI
 SwiftUI : SwiftUI is a new way to build user interfaces for apps on Apple platforms. It allows developers to define the UI using Swift code.
 
 # Dashboard
-![Screenshot](https://github.com/sharmadevelopers/SwiftUITinderApp/HomeScreen1.png)
+![Screenshot](https://github.com/sharmadevelopers/SwiftUITinderApp/blob/Development/HomeScreen1.png)
 
 ![Screenshot](https://github.com/sharmadevelopers/SwiftUITinderApp/blob/Development/HomeScreen2.png)
 
