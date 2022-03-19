@@ -1,5 +1,5 @@
 # SwiftUITinderApp
-TinderApp iOS application in SwiftUI
+TinderApp-iOS application in SwiftUI
 
 <h1>SwiftUITinderApp iOS application + SwiftUI </h1>
 
