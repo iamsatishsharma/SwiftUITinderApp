@@ -9,10 +9,9 @@ SwiftUI : SwiftUI is a new way to build user interfaces for apps on Apple platfo
 
 ![Screenshot](https://github.com/sharmadevelopers/SwiftUITinderApp/blob/Development/SwiftUITinderApp.gif)
 
-![Screenshot](https://github.com/sharmadevelopers/SwiftUITinderApp/blob/Development/HomeScreen1.png)
+<img src="https://github.com/sharmadevelopers/SwiftUITinderApp/blob/Development/HomeScreen1.png" width="200" height="400">
 
-![Screenshot](https://github.com/sharmadevelopers/SwiftUITinderApp/blob/Development/HomeScreen3.png)
-
+<img src="https://github.com/sharmadevelopers/SwiftUITinderApp/blob/Development/HomeScreen3.png" width="200" height="400">
 
 The code would look like this:
 
