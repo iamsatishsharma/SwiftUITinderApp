@@ -6,11 +6,11 @@ TinderApp iOS application in SwiftUI
 SwiftUI : SwiftUI is a new way to build user interfaces for apps on Apple platforms. It allows developers to define the UI using Swift code.
 
 # Dashboard
-![Screenshot](https://github.com/sharmadevelopers/SwiftUITinderApp/Simulator Screen Shot - iPhone 12 - 2022-03-19 at 11.10.38.png)
+![Screenshot] (https://github.com/sharmadevelopers/SwiftUITinderApp/Simulator Screen Shot - iPhone 12 - 2022-03-19 at 11.10.38.png)
 
-![Screenshot](https://github.com/sharmadevelopers/SwiftUITinderApp/Simulator Screen Shot - iPhone 12 - 2022-03-19 at 11.10.43.png)
+![Screenshot] (https://github.com/sharmadevelopers/SwiftUITinderApp/Simulator Screen Shot - iPhone 12 - 2022-03-19 at 11.10.43.png)
 
-![Screenshot](https://github.com/sharmadevelopers/SwiftUITinderApp/Simulator Screen Shot - iPhone 12 - 2022-03-19 at 11.10.57.png)
+![Screenshot] (https://github.com/sharmadevelopers/SwiftUITinderApp/Simulator Screen Shot - iPhone 12 - 2022-03-19 at 11.10.57.png)
 
 
 The code would look like this:
