@@ -1,6 +1,9 @@
 # SwiftUITinderApp
 TinderApp-iOS application in SwiftUI
 
+# Follow and give a start :star:
+Connect with me on [Linkedin](https://www.linkedin.com/in/satishsharma1/) as well to support this project. 
+
 <h1>SwiftUITinderApp iOS application + SwiftUI </h1>
 
 SwiftUI : SwiftUI is a new way to build user interfaces for apps on Apple platforms. It allows developers to define the UI using Swift code.
